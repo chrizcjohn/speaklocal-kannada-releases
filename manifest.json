@@ -1,8 +1,8 @@
 {
   "applicationId": "com.speaklocal.kannada",
-  "versionCode": 16,
+  "versionCode": 17,
   "versionName": "0.1.0-dev",
-  "size": 14105569,
-  "sha256": "818eae66281e2a6ff21286fdbeadcda85a9e3949ab3ad687cd6421e7c0073150",
-  "downloadUrl": "https://github.com/chrizcjohn/speaklocal-kannada-releases/releases/download/dev-build-16/SpeakLocal-Kannada-dev-build-16-debug.apk"
+  "size": 14164149,
+  "sha256": "b321616f6798fd8e89a9c7baf8403b9ba14ea727a2850a2df27b7dc2b0ad9ac0",
+  "downloadUrl": "https://github.com/chrizcjohn/speaklocal-kannada-releases/releases/download/dev-build-17/SpeakLocal-Kannada-dev-build-17-debug.apk"
 }
